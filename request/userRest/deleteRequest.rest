@@ -1,0 +1,3 @@
+DELETE  http://localhost:3001/usersapi/609828f8a283f6421824bdcc
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGFkbWluLmNvbSIsImlkIjoiNjA5OGUyNjRiMzY5ZDUyYWM4YWY1MzhkIiwiaWF0IjoxNjIwNjMyMTY0fQ.chEEHMPkjMJnaAc5lH2TtvgSksg18hU4oxaK5a9Wgas

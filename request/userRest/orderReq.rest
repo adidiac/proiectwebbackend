@@ -1,0 +1,20 @@
+post http://localhost:3001/usersapi/order
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImRpYWNhZGlAZ21haWwuY29tIiwiaWQiOiI2MDk4ZTFjZDI1YTkwOTJhMTgzYzQ1MzQiLCJpYXQiOjE2MjA2MzIwMTN9.4HEpWWV9tYf0U0XQFoH7JQkFOJ9eRurlKcMLEf-M46c
+
+{
+    "order":
+        {
+            "productList":[
+                {
+                    "id":"60883a4606b4081fbcfbda74",
+                    "price":24
+                },
+                {
+                    "id":"60883a4606b4081fbcfbda74",
+                    "price":23
+                }
+            ],
+            "totalPrice":47
+        }
+}

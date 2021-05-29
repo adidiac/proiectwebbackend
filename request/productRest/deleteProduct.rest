@@ -1,0 +1,3 @@
+DELETE http://localhost:3001/productsapi/60996fd1e8fc45469890ce29
+Content-Type: application/json
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFkbWluQGFkbWluLmNvbSIsImlkIjoiNjA5OGUyNjRiMzY5ZDUyYWM4YWY1MzhkIiwiaWF0IjoxNjIwNzIzMjI1fQ.Hgv4ZCna6n1bi8dizUWJyQE8-9z2uX981qFuzj29Y5Y

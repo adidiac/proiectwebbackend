@@ -1,0 +1,8 @@
+post http://localhost:3001/usersapi/login
+Content-Type: application/json
+
+{
+    "email":"admin@admin.com",
+    "name":"Admin",
+    "password":"admin"
+}
